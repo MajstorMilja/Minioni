@@ -1,0 +1,18 @@
+<mat-toolbar color="primary" class="mat-elevation-z8">
+    <mat-icon>menu</mat-icon>
+    <span>Material UI Menu</span>
+    <span class="spaced"></span>
+<button routerLink="home" mat-button><mat-icon>home</mat-icon></button>
+<button routerLink="" mat-button>Hello</button>
+<button  [mat-menu-trigger-for]="lvl1master" mat-button>YESYES</button>
+<mat-menu #lvl1master>
+    <button class="menu-button" [mat-menu-trigger-for]="carl" mat-button>minioni</button>
+    <button class="menu-button" mat-button>minioni item</button>
+    <button class="menu-button" mat-button>WOWWWWW</button>
+</mat-menu>
+
+<mat-menu #carl>
+    <button class="menu-button" mat-button>carl?</button>
+</mat-menu>
+
+</mat-toolbar>

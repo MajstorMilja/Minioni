@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ebBzQxyLsRtw9PnCERBQhoJD9/sRQ6HvoQ93q1eHNwoWIv3KN0ESik2SJF9MxAvmQrVy5gWOH0lJLm0G3gnx+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MajstorMilja\\Desktop\\FullStackMinioni\\Minioni\\Minioni\\Minioni.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MajstorMilja\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\MajstorMilja\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\MajstorMilja\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\MajstorMilja\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\MajstorMilja\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\MajstorMilja\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
