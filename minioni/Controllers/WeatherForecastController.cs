@@ -8,7 +8,7 @@ namespace Minioni.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-        "Op projects 12", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+        "Op projects 13", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
     };
 
         private readonly ILogger<WeatherForecastController> _logger;
